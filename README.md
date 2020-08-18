@@ -1,6 +1,8 @@
 # AngularTourOfHeroes
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5. <br>
+This project is a remake from [Angular Documentation](https://angular.io/tutorial). <br>
+The deployed version can be seen [here](https://yehez-tour-of-heroes.vercel.app/dashboard).
 
 ## Development server
 
